@@ -1,10 +1,11 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#4CAF50">Sreevardhan</span></h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Tech Enthusiast | 🇮🇳 India</h3>
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suruvu-sreevardhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/sreevardhanoffl"><img src="https://img.shields.io/twitter/follow/sreevardhanoffl?logo=twitter&style=flat" /></a>
+  <img src="https://i.ibb.co/vVsyW9B/github-header.png" alt="Sreevardhan Banner" width="100%" />
+</p>
+
+<!-- Typing Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreevardhan;Full+Stack+Developer+from+India;Passionate+about+Tech+%26+Innovation;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,10 +37,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suruvu-sreevardhan&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suruvu-sreevardhan&theme=tokyonight" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suruvu-sreevardhan&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suruvu-sreevardhan&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suruvu-sreevardhan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🎯 Fun GIF Zone
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF" />
 </p>
 
 ---
