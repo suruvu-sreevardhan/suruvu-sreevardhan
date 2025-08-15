@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/vVsyW9B/github-header.png" alt="Sreevardhan Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg" alt="Sreevardhan Banner" width="100%" />
 </p>
 
 <!-- Typing Animation Intro -->
